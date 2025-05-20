@@ -24,7 +24,7 @@
     Создайте базу данных в PostgreSQL</br>
     Настройте доступ к базе данных в файле application.properties</br>
     Соберите и запустите проект</br>
-    Для доступа перейдите по адресу: http://localhost:8080/index
+    Для доступа перейдите по адресу: <a href="http://localhost:8080/index">http://localhost:8080/index
 
 <h3>Контакты:</h3>
     Telegram: https://t.me/AlexKrmv
